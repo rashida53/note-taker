@@ -1,17 +1,27 @@
 [
     {
-        "title": "Clean bedroom",
-        "text": "Pack clothes in red bag",
+        "title": "Go to bank",
+        "text": "Withdraw money",
         "id": "4635"
     },
     {
-        "title": "Clean bathroom",
-        "text": "For both rooms",
+        "title": "Clean room",
+        "text": "Clean both rooms on the weekend",
         "id": "4be6"
     },
     {
-        "title": "Babysit babu",
-        "text": "During DB class",
+        "title": "Buy gift",
+        "text": "Get a gift for friend's housewarming",
         "id": "e8eb"
+    },
+    {
+        "title": "Arrange closet",
+        "text": "Reorganize clothes and bags",
+        "id": "ee18"
+    },
+    {
+        "title": "Submit challenge",
+        "text": "Complete and submit challenge 11",
+        "id": "a0e0"
     }
 ]
