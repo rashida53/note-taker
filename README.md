@@ -13,7 +13,12 @@
 - [License](#license)
 - [Questions](#questions)
 
+## **Deployment**
 This app has been deployed [here](https://afternoon-cove-74927.herokuapp.com/)
+
+### The following image shows the web application's appearance and functionality:
+
+![screenshot](https://github.com/rashida53/note-taker/blob/main/note-taker.png?raw=true)
 
 ## [**Installation**](#table-of-contents)
 
