@@ -2,7 +2,7 @@
 
 ## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## This repository contains the HTML, JavaScript and CSS files for the note taker challenge for module 11. It allows the user to take notes and save them by writing them to a database. It has been deployed using heroku.
+## This repository contains the HTML, JavaScript and CSS files for the note taker challenge for module 11. It allows the user to take notes and save them by writing them to a database. The user can also delete notes on the app. It has been deployed using heroku.
 
 
 >## Table of contents
@@ -13,10 +13,13 @@
 - [License](#license)
 - [Questions](#questions)
 
+This app has been deployed [here](https://afternoon-cove-74927.herokuapp.com/)
+
 ## [**Installation**](#table-of-contents)
 
 To install this aplication on your device, please follow these instructions:
 
+This application has been deployed on heroku and can be used with the deployed URL mentioned below.
 
 
 ## [**Usage**](#table-of-contents)
